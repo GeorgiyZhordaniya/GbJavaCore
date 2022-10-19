@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149c3dc8-cb12-4413-a464-d9c58603f50d" name="Changes" comment="dz2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task1/SwapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task2/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task2/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task2/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/lesson3/task2/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +54,7 @@
       <recent name="C:\Users\umnik\IdeaProjects\GB\src\main\java\hw\lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.hw.lesson3.task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw.lesson2.Main" />
       <module name="GB" />
@@ -74,8 +81,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw.lesson3.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.lesson3.task1.Main" />
+      <module name="GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.lesson3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw.lesson3.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.lesson3.task2.Main" />
+      <module name="GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.lesson3.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw.lesson3.task2.Main" />
+        <item itemvalue="Application.hw.lesson3.task1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainClass" />
       </list>
@@ -125,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665984625844</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dz2">
+      <created>1665984774677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665984774677</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +181,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/dz" />
+                        <option value="dz" />
                       </list>
                     </value>
                   </entry>
